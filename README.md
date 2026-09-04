@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1a1a2e&height=200&section=header&text=Md.%20Johirul%20Islam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20Go&descAlignY=58&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:0077B5,100:1a1a2e&height=200&section=header&text=Md.%20Johirul%20Islam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20Go&descAlignY=58&descColor=c9d6ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Johirul+Islam;Software+Engineer;React+%7C+Next.js+%7C+Node.js+Go+Developer;3%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Johirul+Islam;Software+Engineer;React+%7C+Next.js+%7C+Node.js+Go+Developer;3%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://johir-khan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://johir.coders24.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/johirul-islam-rasel" target="_blank">
+  <a href="https://www.linkedin.com/in/johirul-islam-rasel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:johirulislam574206@gmail.com" target="_blank">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=johirdev&label=Profile+Views&color=0077B5&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=johirdev&label=Profile+Views&color=6C5CE7&style=for-the-badge" />
 
 </div>
 
@@ -36,7 +36,7 @@ const johirul = {
   currentJob: "Daisen Technology Ltd",
   goal: "Becoming a Full-Stack Software Engineer",
   contact: "johirulislam574206@gmail.com",
-  portfolio: "https://johir-khan.vercel.app",
+  portfolio: "https://johir.coders24.com",
   passions: ["Clean Code", "Problem Solving", "Modern Web Tech"],
 };
 ```
@@ -171,8 +171,8 @@ const johirul = {
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [johir-khan.vercel.app](https://johir-khan.vercel.app) |
-| 💼 LinkedIn | [johirul-islam-rasel](https://www.linkedin.com/in/johirul-islam-rasel) |
+| 🌐 Portfolio | [johir.coders24.com](https://johir.coders24.com) |
+| 💼 LinkedIn | [johirul-islam-rasel](https://www.linkedin.com/in/johirul-islam-rasel/) |
 | 📧 Email | [johirulislam574206@gmail.com](mailto:johirulislam574206@gmail.com) |
 | 🐙 GitHub | [github.com/johirdev](https://github.com/johirdev) |
 | 📞 Phone | +8801824842336 |
@@ -183,6 +183,6 @@ const johirul = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0077B5&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0077B5,100:6C5CE7&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" />
 
 </div>
