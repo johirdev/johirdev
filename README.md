@@ -118,22 +118,8 @@ const johir = {
 <td width="70" align="center"><img src="https://img.icons8.com/fluency/48/briefcase.png" width="40"/></td>
 <td>
 
-### Software Engineer — [Coders24](https://coders24.com)
-<img src="https://img.shields.io/badge/May%202026%20–%20Present-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/On--site-Dhaka-0F172A?style=flat-square" />
-
-- Build full-stack products end-to-end with **Next.js, TypeScript, Node.js, Go (Gin), MongoDB & MySQL**
-- Own features from UI to API to deployment
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,go,mongodb,mysql" height="30" />
-
-</td>
-</tr>
-<tr>
-<td width="70" align="center"><img src="https://img.icons8.com/fluency/48/code.png" width="40"/></td>
-<td>
-
 ### Software Developer — [Daisen Technology Ltd](https://daisentechnologies.com/) 🇯🇵
-<img src="https://img.shields.io/badge/Oct%202024%20–%20Mar%202026-6C5CE7?style=flat-square" /> <img src="https://img.shields.io/badge/On--site-Dhaka-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/Oct%202024%20–%20Oct%202026-6C5CE7?style=flat-square" /> <img src="https://img.shields.io/badge/On--site-Dhaka-0F172A?style=flat-square" />
 
 - Developed & maintained **customer-facing web apps** with **React, Next.js, TypeScript & Redux**
 - Built backend services and integrated REST APIs across **Node.js and Go (Gin)**
